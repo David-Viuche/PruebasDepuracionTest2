@@ -1,1 +1,3 @@
 controller\EmpleadoControllerTest.class
+view\EmpleadoViewTest.class
+model\EmpleadoDAOTest.class
